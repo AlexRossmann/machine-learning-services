@@ -1,6 +1,6 @@
 # English Version
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/Rating/Digital%20Valuation%20of%20Real%20Estate/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Rating/Digital%20Valuation%20of%20Real%20Estate/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
