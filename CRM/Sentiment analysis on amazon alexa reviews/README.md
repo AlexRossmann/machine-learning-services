@@ -1,7 +1,7 @@
 # Sentiment analysis on amazon alexa reviews
 >see __German Version__ [below](#German_version)
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/CRM/Sentiment%20analysis%20on%20amazon%20alexa%20reviews/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/CRM/Sentiment%20analysis%20on%20amazon%20alexa%20reviews/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
