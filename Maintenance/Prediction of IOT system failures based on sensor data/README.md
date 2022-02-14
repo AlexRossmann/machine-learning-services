@@ -1,7 +1,7 @@
 # Prediction of fire protection system failures based on sensor data
 >see __German Version__ [below](#German_version)
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/Maintenance/Prediction%20of%20IOT%20system%20failures%20based%20on%20sensor%20data/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Maintenance/Prediction%20of%20IOT%20system%20failures%20based%20on%20sensor%20data/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
