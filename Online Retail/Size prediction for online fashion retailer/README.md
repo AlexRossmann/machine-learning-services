@@ -1,7 +1,7 @@
 # Confetion size prediction for online stores    
 >see __German Version__ [below](#German_version)
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/Online%20Retail/Size%20prediction%20for%20online%20fashion%20retailer/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Online%20Retail/Size%20prediction%20for%20online%20fashion%20retailer/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
