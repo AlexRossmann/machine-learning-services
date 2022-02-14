@@ -1,7 +1,7 @@
 # Analysis of the movement and activity of free-ranging cattle
 >see __German Version__ [below](#German_version)
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/Agriculture/Analysis%20of%20the%20movement%20and%20activity%20of%20free-ranging%20cattle/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Agriculture/Analysis%20of%20the%20movement%20and%20activity%20of%20free-ranging%20cattle/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
