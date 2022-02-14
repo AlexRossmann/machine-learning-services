@@ -2,7 +2,7 @@
 
 >see __German Version__ [below](#German_version)
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/CRM/Customer%20Churn%20Prediction/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/CRM/Customer%20Churn%20Prediction/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
