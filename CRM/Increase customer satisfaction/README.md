@@ -1,6 +1,6 @@
 # Steigerung von Kundenzufriedenheit bei Netflix
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/CRM/Increase%20customer%20satisfaction/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/CRM/Increase%20customer%20satisfaction/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
