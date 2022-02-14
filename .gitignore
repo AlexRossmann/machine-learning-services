@@ -1,0 +1,32 @@
+# ignored python artefacts
+.ipynb_checkpoints
+venv/
+
+# all pdfs shall be ignored
+*.pdf
+
+# ignored data files
+Generation of Individual Playlists/Generation-of-Individual-Playlists-data.csv
+
+Digital Valuation of Real Estate/data.csv
+
+flight delay prediction/data flights.csv
+
+Increase customer satisfaction/Increase_customer_satisfaction_tmdb_5000_credits.csv
+
+Classification of clothing through images/Classification_of_clothing_through_images_fashion-mnist_train.csv
+
+Healthcare system finding causes and patterns for common diseases/train_dummies.csv
+
+*.json
+
+# ignored folders
+Classification of amazon reviews/data/
+
+Maschinenausfälle vorhersagen um Wartungskosten und Produktionsstops zu verhindern/
+
+
+# ignored tensorflow models
+Classification of clothing through images/fashion_model/
+
+
