@@ -1,6 +1,6 @@
 # Vorhersage von erfolgreichen oder gescheiterten StartUps
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/Success%20Predicition/Prediction%20of%20Successful%20or%20Failed%20Startups/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Success%20Predicition/Prediction%20of%20Successful%20or%20Failed%20Startups/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
