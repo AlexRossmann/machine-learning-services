@@ -1,7 +1,7 @@
 # Advertising Prediction Notebook
 >see __German Version__ [below](#German_version)
 
-<a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/Marketing/Predicting%20clicks%20on%20online%20advertising%20by%20Facebook/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Marketing/Predicting%20clicks%20on%20online%20advertising%20by%20Facebook/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
