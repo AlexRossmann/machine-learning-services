@@ -75,7 +75,7 @@ one example Use Case has been deployed by creating a REST API opn top of the ten
 ## Usage
 There are two ways you can run the python notebook yourself, as described below.  
 Or you click  the google colab button in the README, to run the notebook in the cloud (for free).  
-example: <a href="https://colab.research.google.com/github/AlexRossmann/ml-services/blob/main/CRM/Customer%20Churn%20Prediction/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+example: <a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/CRM/Customer%20Churn%20Prediction/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
 
 
 
