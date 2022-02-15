@@ -2,11 +2,10 @@
 
 >see __German Version__ [below](#German_version)
 
-<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Insurance/Insurance%20Fraud%20detection/notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>  
+<a href="https://colab.research.google.com/github/AlexRossmann/machine-learning-services/blob/main/Insurance/Insurance%20Fraud%20detection/notebook_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook In Google Colab"/></a>
 
 
-
-## Business Understandig
+## Business Understanding
 
 __Corporation:__ na     
 __Industry:__ Insurance  
@@ -15,7 +14,7 @@ __Business Objective:__  Through this service, future insurance fraudsters can b
 __Description:__  The insurance industry has always generated a large amount of data, be it the very personal data of policyholders, statistics on the performance of insurance products, or quite normal business metrics such as revenue, profit, and costs. The insurance sector is therefore predestined for the application of machine learning. At the same time, insurance companies are very popular targets for fraudsters. This can happen in the form of hacker attacks or quite analogously as insurance fraud, for example, in the case of a supposed claim. Since the insurance principle applies to insurance, all insured parties pay in the event of fraud. It harms the entire community. It is therefore particularly important to recognize and prevent fraud.   
 __Solution:__ na    
 
-## Data Unterstanding
+## Data Understanding
 
 __Data Frame:__ Auto Insurance Claims Data      
 __Source:__ Kaggle, „Auto Insurance Claims Data“, https://kaggle.com/buntyshah/auto-insurance-claims-data      
