@@ -48,27 +48,26 @@ one example Use Case has been deployed by creating a REST API opn top of the ten
 14. Sales Forecast for retail store
 
 ### Health:
-15. Healthcare system finding causes and patterns for common diseases
-16. Risk prediction of heart disease
+15. Risk prediction of heart disease
 
 ### Insurance:
-17. Predicting mental illness for health insurance
-18. Prediction Interest for car insurance
-19. Insurance Fraud detection
+16. Predicting mental illness for health insurance
+17. Prediction Interest for car insurance
+18. Insurance Fraud detection
 
 ### Marketing:
-20. Generation of Individual Playlists
-21. Predicting clicks on online advertising by Facebook
+19. Generation of Individual Playlists
+20. Predicting clicks on online advertising by Facebook
 
 ### Tourism:
-22. Prediction cancellation of hotel bookings
-23. Flight delay prediction      
+21. Prediction cancellation of hotel bookings
+22. Flight delay prediction      
 
 ### Agriculture:
-24. Analysis of the movement and activity of free-ranging cattle
+23. Analysis of the movement and activity of free-ranging cattle
 
 ### Maintenance:
-25. Prediction of IoT system failures based on sensor data
+24. Prediction of IoT system failures based on sensor data
 
 <a id="Usage"></a>  
 
