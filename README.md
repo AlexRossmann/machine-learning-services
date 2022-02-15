@@ -80,7 +80,7 @@ example: <a href="https://colab.research.google.com/github/AlexRossmann/machine-
 
 
 ### Setup python virtual environment
-to setup the virtual environment download [python 3.8](https://www.python.org/downloads/release/python-389/), and run the following commands.
+To setup the virtual environment download [python 3.8](https://www.python.org/downloads/release/python-389/), and run the following commands.
 We recommend using python 3.8, as this release is the most reliable with the tensorflow module.   
 All notebooks in this repo have been verified to run with *python 3.8* and the dependencies listed in *requirements.txt*
 
@@ -97,4 +97,4 @@ or run
 ```bash
 jupyter notebook
 ```
-in the same Terminal.
+in the same terminal.
